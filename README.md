@@ -1,0 +1,1 @@
+Esse projeto foi realizado como requisito para a disciplina: Programação orientada a objetos em Java. Esse projeto consiste em um protótipo de uma aplicação para cadastro de membros de uma igreja local. Feito em Java, tendo integração com banco de dados MySQL.
